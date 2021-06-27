@@ -1,0 +1,1 @@
+{ 7: {"parent":6, "wantCS":"no"}, 6: {"parent":2, "wantCS":"yes"}, 2: {"parent":1, "wantCS":"no"}, 3: {"parent":2, "wantCS":"yes"}, 5: {"parent":4, "wantCS":"yes"}, 4: {"parent":1, "wantCS":"no"}, 1: {"parent":"none", "wantCS":"yes"}}

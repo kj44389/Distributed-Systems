@@ -1,0 +1,1 @@
+{ "A": {'wantCS':'no', 'value':'1'}, "B": {'wantCS':'yes', 'value':'2'}, "C": {'wantCS':'yes', 'value':'7'}, "D": {'wantCS':'no', 'value':'3'}, "M": {'wantCS':'yes', 'value':'5'}}
